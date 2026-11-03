@@ -21,6 +21,8 @@ No PowerShell, use `Get-FileHash .\Relalia-Run-App-<versão>-Setup.exe -Algorith
 
 Feche o aplicativo antes de executar o instalador e preserve um backup dos seus dados. Consulte as notas da versão para verificar compatibilidade e limitações. Os instaladores atuais não têm assinatura Authenticode; hashes verificam integridade, sem substituir a assinatura do fabricante.
 
-Os instaladores são cópias idênticas das releases já publicadas. O atualizador embutido nessas versões ainda aponta para o repositório privado original e pode exigir acesso individual pelo GitHub CLI. Para atualizar sem esse acesso, baixe e execute manualmente o instalador disponível aqui.
+A partir da **3.0.4**, o botão **Verificar atualizações** consulta este repositório público. Consulta e download não exigem login, token ou GitHub CLI. O download é solicitado pelo usuário; reinício e instalação continuam explícitos, após concluir as gravações.
+
+As versões até a **3.0.3** ainda usam o canal privado original. Para adotar o canal público, baixe e execute o instalador **3.0.4** uma vez. Quem tem acesso ao canal privado também pode receber essa versão de transição pelo botão antigo. Depois da instalação, as próximas consultas usarão o canal público.
 
 As notas históricas podem mencionar a distribuição privada e documentação técnica interna; elas descrevem o contexto original de cada versão. Este repositório não publica o código-fonte.
