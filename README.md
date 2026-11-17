@@ -26,3 +26,7 @@ A partir da **3.0.4**, o botão **Verificar atualizações** consulta este repos
 As versões até a **3.0.3** ainda usam o canal privado original. Para adotar o canal público, baixe e execute o instalador **3.0.4** uma vez. Quem tem acesso ao canal privado também pode receber essa versão de transição pelo botão antigo. Depois da instalação, as próximas consultas usarão o canal público.
 
 As notas históricas podem mencionar a distribuição privada e documentação técnica interna; elas descrevem o contexto original de cada versão. Este repositório não publica o código-fonte.
+
+<!-- relalia-release-version v3.1.2 -->
+Versão do canal de distribuição [v3.1.2](https://github.com/fael123programming/Relalia-Run-App-Releases/releases/tag/v3.1.2).
+<!-- /relalia-release-version -->
