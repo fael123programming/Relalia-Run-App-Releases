@@ -27,6 +27,6 @@ As versões até a **3.0.3** ainda usam o canal privado original. Para adotar o 
 
 As notas históricas podem mencionar a distribuição privada e documentação técnica interna; elas descrevem o contexto original de cada versão. Este repositório não publica o código-fonte.
 
-<!-- relalia-release-version v3.1.2 -->
-Versão do canal de distribuição [v3.1.2](https://github.com/fael123programming/Relalia-Run-App-Releases/releases/tag/v3.1.2).
+<!-- relalia-release-version v3.2.0 -->
+Versão do canal de distribuição [v3.2.0](https://github.com/fael123programming/Relalia-Run-App-Releases/releases/tag/v3.2.0).
 <!-- /relalia-release-version -->
